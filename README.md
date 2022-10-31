@@ -9,3 +9,5 @@
 输入特征文件为n(n>128)行,每个元素占据独立一行，不包含任意特殊符号的txt文件（正负号除外）。
 
 参考文献详见《Attacks and Countermeasures on Privacy-Preserving Biometric Authentication Schemes》
+
+明天开始准备装载硬件方面和打包py脚本方面的工作了
